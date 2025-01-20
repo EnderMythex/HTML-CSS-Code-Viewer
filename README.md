@@ -12,8 +12,10 @@
 
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
-  <img alt="Build" src="https://img.shields.io/badge/build-passing-success">
+  <img alt="Chrome Web Store Rating" src="https://img.shields.io/chrome-web-store/rating/dgildcjamghbgngmnmegikihfcopnmlg">
+  <img alt="Chrome Web Store Size" src="https://img.shields.io/chrome-web-store/size/dgildcjamghbgngmnmegikihfcopnmlg">
+  <img alt="Chrome Web Store Users" src="https://img.shields.io/chrome-web-store/users/dgildcjamghbgngmnmegikihfcopnmlg">
+  <img alt="Chrome Web Store Last Updated" src="https://img.shields.io/chrome-web-store/last-updated/dgildcjamghbgngmnmegikihfcopnmlg">
 </p>
 
 ## 🎯 About
