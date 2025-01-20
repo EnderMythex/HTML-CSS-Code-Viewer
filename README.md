@@ -1,2 +1,65 @@
-# HTML-CSS-Code-Viewer
-OFFICIAL HTML &amp; CSS Code Viewer REPO
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1092915701586612226/1331020276296716399/7.png?ex=679018bb&is=678ec73b&hm=d81848716e80bf6da1249d06c609ff1ed4a49ca70420d7f911c9968d3cd0ed08&" alt="Code Editor Logo" width="120" height="120">
+</p>
+
+<h1 align="center">🖥️ HTML & CSS Code Viewer</h1>
+
+<p align="center">
+  An interactive HTML and CSS code editor with real-time preview and a sidebar.
+  <br>
+  <strong>Create and Preview Instantly! 🚀</strong>
+</p>
+
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
+  <img alt="Build" src="https://img.shields.io/badge/build-passing-success">
+</p>
+
+## 🎯 About
+
+Step into a seamless coding experience with Live HTML & CSS Editor! Whether you're testing code snippets or building small projects, this extension makes editing and previewing code simple, fast, and interactive.
+
+### ✨ Key Features
+
+- 🔄 **Real-Time Preview**: Instantly see how your HTML and CSS come together in a live preview window
+- 📋 **Clipboard Integration**: Quickly import your code directly from the clipboard with a single click
+- 🎨 **Toggle Editors**: Hide or display the HTML and CSS editors to focus on what matters most
+- ✍️ **Syntax Highlighting**: Enjoy clean, readable code with built-in syntax highlighting using Prism.js
+
+## 🎯 Perfect For
+
+- Developers looking to test ideas on the go
+- Beginners learning HTML & CSS with live feedback
+- Designers tweaking and refining website components
+
+## 🌟 Why Choose Live Code Editor?
+
+- **Simplified Workflow**: Import, edit, and visualize your code effortlessly
+- **Lightweight & User-Friendly**: An intuitive interface designed for everyone
+- **Productivity Boost**: Focus on coding, not setup or configuration
+
+## 🔜 Coming Soon
+
+- JavaScript support
+- Enhanced preview capabilities
+- More customization options
+- Theme switcher
+
+## 📞 Support
+
+Have questions or suggestions? Reach us at:
+- 📧 Email: support@cybercookie.party
+- 🌐 Website: [Live Code Editor](https://enderr.win/)
+
+## ⚡ Get Started
+
+1. Install the extension from your browser's store
+2. Click the extension icon to open the editor
+3. Start coding and see your changes in real-time!
+
+---
+
+<p align="center">
+  <i>Supercharge your coding workflow today with HTML & CSS Code Viewer! ⚡</i>
+</p>
