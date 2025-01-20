@@ -19,6 +19,7 @@
 ## 🎯 About
 
 Step into a seamless coding experience with Live HTML & CSS Editor! Whether you're testing code snippets or building small projects, this extension makes editing and previewing code simple, fast, and interactive.
+Download here : https://chromewebstore.google.com/detail/html-css-code-viewer/dgildcjamghbgngmnmegikihfcopnmlg
 
 ### ✨ Key Features
 
@@ -54,7 +55,7 @@ Have questions or suggestions? Reach us at:
 
 ## ⚡ Get Started
 
-1. Install the extension from your browser's store
+1. Install the extension from the chrome webstore [here](https://chromewebstore.google.com/detail/html-css-code-viewer/dgildcjamghbgngmnmegikihfcopnmlg)
 2. Click the extension icon to open the editor
 3. Start coding and see your changes in real-time!
 
