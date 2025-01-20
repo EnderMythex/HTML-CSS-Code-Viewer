@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Code Viewer Sidepanel</title>
+  <link rel="stylesheet" href="sidepanel.css">
+  <link rel="stylesheet" href="prism.css">
+  <script src="prism.js"></script>
+  <script src="sidepanel.js" defer></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>HTML & CSS Code Viewer</h1>
+      <div class="button-group">
+        <button class="btn" id="btn-html">HTML</button>
+        <button class="btn" id="btn-css">CSS</button>
+        <button class="btn" id="btn-gen">Generate</button>
+      </div>
+    </div>
+
+    <div class="content">
+      <div class="editors-container">
+        <div class="editor-wrapper">
+          <div class="editor-header">
+            <span class="editor-label">HTML</span>
+            <button class="btn-toggle" id="toggleEditorhtml">-</button>
+          </div>
+          <pre
+            class="editor"><code id="htmlInput" class="language-html" contenteditable="true" spellcheck="false"></code></pre>
+        </div>
+
+        <div class="editor-wrapper">
+          <div class="editor-header">
+            <span class="editor-label">CSS</span>
+            <button class="btn-toggle" id="toggleEditorcss">-</button>
+          </div>
+          <pre
+            class="editor"><code id="cssInput" class="language-css" contenteditable="true" spellcheck="false"></code></pre>
+        </div>
+
+        <div class="preview-container">
+          <iframe id="previewFrame" class="preview-frame"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="message-container">
+    <p class="message">HTML & CSS Code Viewer extensions made by EnderMythex</p>
+  </footer>
+</body>
+
+</html>
