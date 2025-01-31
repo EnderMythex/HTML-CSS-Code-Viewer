@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1092915701586612226/1331020276296716399/7.png?ex=679018bb&is=678ec73b&hm=d81848716e80bf6da1249d06c609ff1ed4a49ca70420d7f911c9968d3cd0ed08&" alt="Code Editor Logo" width="120" height="120">
+  <img src="https://cdn.discordapp.com/attachments/1092915701586612226/1331020276296716399/7.png?ex=679df07b&is=679c9efb&hm=12125a6d13cf4262682c903f02bef5111b8852e3a2b3dbdf132a73ea6f1867b4&" alt="Code Editor Logo" width="120" height="120">
 </p>
 
 <h1 align="center">🖥️ HTML & CSS Code Viewer</h1>
