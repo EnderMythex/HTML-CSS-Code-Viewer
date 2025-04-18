@@ -53,7 +53,7 @@ Download here : https://chromewebstore.google.com/detail/html-css-code-viewer/dg
 
 Have questions or suggestions? Reach us at:
 - 📧 Email: support@enderr.win
-- 🌐 Website: [Live Code Editor](https://enderr.win/)
+- 🌐 Website: https://enderr.win/
 
 ## ⚡ Get Started
 
