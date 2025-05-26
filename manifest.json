@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "version": "1.1",
+  "default_locale": "en",
+  "description": "__MSG_extensionDescription__",
+  "author": "HTML & CSS Code Viewer Team",
+  "homepage_url": "https://github.com/EnderMythex/HTML-CSS-Code-Viewer",
+  "background": {
+    "service_worker": "/src/service-worker.js"
+  },
+  "action": {
+    "default_title": "__MSG_actionTitle__",
+    "default_icon": {
+      "16": "assets/icons/16x16icon.png",
+      "32": "assets/icons/32x32icon.png",
+      "48": "assets/icons/48x48icon.png",
+      "128": "assets/icons/128x128icon.png"
+    }
+  },
+  "icons": {
+    "16": "assets/icons/16x16icon.png",
+    "32": "assets/icons/32x32icon.png",
+    "48": "assets/icons/48x48icon.png",
+    "128": "assets/icons/128x128icon.png"
+  },
+  "permissions": [
+    "sidePanel",
+    "tabs",
+    "clipboardRead",
+    "notifications"
+  ],
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+B",
+        "mac": "Command+B"
+      },
+      "description": "__MSG_openSidePanel__"
+    }
+  },
+  "browser_specific_settings": {
+    "edge": {
+      "browser_action_next": true
+    }
+  },
+  "minimum_chrome_version": "88",
+  "offline_enabled": true,
+  "incognito": "split"
+}

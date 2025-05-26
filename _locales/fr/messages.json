@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "HTML & CSS Code Viewer",
+    "description": "Nom de l'extension"
+  },
+  "extensionDescription": {
+    "message": "Editeur de code HTML et CSS avec prévisualisation et panneau latéral. Importez, modifiez et visualisez facilement votre code.",
+    "description": "Description de l'extension"
+  },
+  "actionTitle": {
+    "message": "Cliquez pour ouvrir le panneau",
+    "description": "Titre de l'action"
+  },
+  "openSidePanel": {
+    "message": "Ouvrir le panneau latéral",
+    "description": "Description de la commande pour ouvrir le panneau"
+  }
+} 

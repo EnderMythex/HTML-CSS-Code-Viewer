@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "HTML & CSS Code Viewer",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "HTML and CSS code editor with preview and side panel. Easily import, edit and view your code.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Click to open panel",
+    "description": "Action title"
+  },
+  "openSidePanel": {
+    "message": "Open side panel",
+    "description": "Command description for opening the panel"
+  }
+} 

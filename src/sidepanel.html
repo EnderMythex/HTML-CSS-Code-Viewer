@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Éditeur de code HTML et CSS interactif avec prévisualisation en temps réel">
+  <title>HTML & CSS Code Viewer</title>
+  <link rel="stylesheet" href="sidepanel.css">
+  <link rel="stylesheet" href="../assets/plugins/prism.css">
+  <script src="../assets/plugins/prism.js" defer></script>
+  <script src="./sidepanel.js" defer></script>
+</head>
+
+<body>
+  <div class="container">
+    <header class="header">
+      <h1><img src="../assets/icons/32x32icon.png" alt="Logo HTML & CSS Code Viewer" class="header-logo">HTML & CSS Code
+        Viewer (By EnderMythex)</h1>
+      <nav class="button-group" aria-label="Actions principales">
+        <button class="btn" id="btn-html" aria-label="Coller le code HTML">HTML</button>
+        <button class="btn" id="btn-css" aria-label="Coller le code CSS">CSS</button>
+        <button class="btn" id="btn-gen" aria-label="Générer la prévisualisation">Generate</button>
+        <button class="btn" id="btn-fullscreen" aria-label="Ouvrir en plein écran">&#x26F6;</button>
+        <button class="btn btn-support" id="btn-support" aria-label="Soutenir le projet">Support</button>
+      </nav>
+    </header>
+
+    <main class="content">
+      <div class="editors-container">
+        <div class="editor-wrapper">
+          <div class="editor-header">
+            <button class="btn-toggle" id="toggleEditorhtml">-</button>
+            <span class="editor-label">HTML</span>
+          </div>
+          <pre
+            class="editor"><code id="htmlInput" class="language-html" contenteditable="true" spellcheck="false"></code></pre>
+        </div>
+
+        <div class="editor-wrapper">
+          <div class="editor-header">
+            <button class="btn-toggle" id="toggleEditorcss">-</button>
+            <span class="editor-label">CSS</span>
+          </div>
+          <pre
+            class="editor"><code id="cssInput" class="language-css" contenteditable="true" spellcheck="false"></code></pre>
+        </div>
+
+        <div class="preview-container">
+          <iframe id="previewFrame" class="preview-frame"></iframe>
+        </div>
+      </div>
+    </main>
+</body>
+
+</html>
